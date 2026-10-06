@@ -1,0 +1,37 @@
+# Firebase / local configuration
+js/firebase-config.js
+.firebase/
+firebase-debug.log
+firestore-debug.log
+ui-debug.log
+
+# Firebase Admin / service-account credentials
+*-service-account.json
+serviceAccountKey.json
+.env
+.env.*
+
+# Dependencies
+node_modules/
+
+# Build / tooling
+dist/
+build/
+.cache/
+.vite/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
